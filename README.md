@@ -10,4 +10,8 @@
 <!--- - 🤔 I’m looking for help with ...) -->
 <!--- - 😄 Pronouns: ... -->
 
+###Social
+[2.2]: http://i.imgur.com/fep1WsG.png
+[2]: https://www.facebook.com/vincenzo.aiello.904/
+
 

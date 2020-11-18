@@ -21,4 +21,4 @@
 
 
 ### 📚 Conoscenze
-[5]: https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java
+![alt text](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)

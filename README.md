@@ -20,7 +20,7 @@
 [3]: https://www.instagram.com/young_hidden/
 
 
-### 📚 Conoscenze
+### 📚 Skills
 ### Linguaggi di programmazione
 ![alt text](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![alt text](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -41,3 +41,7 @@
 ![alt text](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)
 ### Database
 ![alt text](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### 📈 Un pò di statistche
+[![vincenzoAiello's github stats](https://github-readme-stats.vercel.app/api?username=vincenzoAiello)](https://github.com/anuraghazra/github-readme-stats)

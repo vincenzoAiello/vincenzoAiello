@@ -1,4 +1,4 @@
-### Ciao sono Vincenzo Aiello 👋🏽,
+### Ciao sono Vincenzo Aiello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
 ### Studio informatica presso l' Università degli studi di Salerno e ho una forte passione per la programmazione 😍💻
 
 - 🔭 Sto lavorando su una piattaforma social per gli Universitari..."Unimeet"

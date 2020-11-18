@@ -5,7 +5,7 @@
 - 🌱 Sto raffinando la conoscenza di python
 - 👯 Sono alla ricerca di qualsiasi progetto su cui collaborare 🤣
 - 📫 Potete contattarmi qui: vincenzaiello300@gmail.com
-- ⚡ Fun fuct: Gioco a tennis e ho una passione per la musica,
+- ⚡ Fun fact: Gioco a tennis e ho una passione per la musica,
         mi piace produrre e suonare la chitarra. 🎸🎾
 <!--- - 🤔 I’m looking for help with ...) -->
 <!--- - 😄 Pronouns: ... -->

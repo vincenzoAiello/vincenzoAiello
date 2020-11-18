@@ -2,7 +2,7 @@
 ### Studio informatica presso l' Università degli studi di Salerno e ho una forte passione per la programmazione 😍💻
 
 - 🔭 Sto lavorando su una piattaforma social per gli Universitari..."Unimeet"
-- 🌱 Sto raffinando la conoscenza di python
+- 🌱 Sto affinando la conoscenza di python
 - 👯 Sono alla ricerca di qualsiasi progetto su cui collaborare 🤣
 - 📫 Potete contattarmi qui: vincenzaiello300@gmail.com
 - ⚡ Fun fact: Gioco a tennis e ho una passione per la musica,

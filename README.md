@@ -1,5 +1,5 @@
 ### Ciao sono Vincenzo Aiello 👋🏽,
-### Studio informatica presso l' Università degli studi di Salerno e ho una forte passione per la programmazione 😍💻
+### Studio informatica presso l' Università degli studi di Salerno \n e ho una forte passione per la programmazione 😍💻
 
 - 🔭 Sto lavorando su una piattaforma social per gli Universitari..."Unimeet"
 - 🌱 Sto raffinando la conoscenza di python

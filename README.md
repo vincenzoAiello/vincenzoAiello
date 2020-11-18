@@ -14,10 +14,11 @@
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 
-
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
-[2]: http://www.facebook.com/sednaoui
+[2]: https://www.facebook.com/vincenzo.aiello.904/
 [3.1]: https://imgur.com/qGgpXDt.png (instagram)
-[3]: http://www.facebook.com/sednaoui
+[3]: https://www.instagram.com/young_hidden/
 
 
+### 📚 Conoscenze
+[]: https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java

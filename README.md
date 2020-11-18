@@ -17,7 +17,6 @@
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
 [2]: http://www.facebook.com/sednaoui
-<a href=”//www.facebook.com/sednaoui"><img src=”https://img.icons8.com/windows/2x/instagram-new.png"></a>
 [3.1]: https://img.icons8.com/windows/2x/instagram-new.png (instagram)
 [3]: http://www.facebook.com/sednaoui
 

@@ -44,4 +44,4 @@
 
 
 ### 📈 Un pò di statistche
-[![vincenzoAiello's github stats](https://github-readme-stats.vercel.app/api?username=vincenzoAiello)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
+[![vincenzoAiello's github stats](https://github-readme-stats.vercel.app/api?username=vincenzoAiello&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

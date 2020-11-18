@@ -44,4 +44,5 @@
 
 
 ### 📈 Un pò di statistche
-[![vincenzoAiello's github stats](https://github-readme-stats.vercel.app/api?username=vincenzoAiello&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![vincenzoAiello's github stats](https://github-readme-stats.vercel.app/api?username=vincenzoAiello&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincenzoAiello&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)

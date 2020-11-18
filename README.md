@@ -17,7 +17,7 @@
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
 [2]: http://www.facebook.com/sednaoui
-[3.1]: https://imgur.com/0FiPEDP (instagram)
+[3.1]: https://imgur.com/0FiPEDP.png (instagram)
 [3]: http://www.facebook.com/sednaoui
 
 

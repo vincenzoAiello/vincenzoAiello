@@ -17,7 +17,7 @@
 
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
 [2]: http://www.facebook.com/sednaoui
-[3.1]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg (instagram)
+[3.1]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg = 10x10(instagram)
 [3]: http://www.facebook.com/sednaoui
 
 
